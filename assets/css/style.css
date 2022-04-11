@@ -37,7 +37,7 @@ body
 }
 
 /*Multiple sections edit*/
-#home,#about, #funfacts, #famousquotes, #contact, #footer
+#home,#biography, #funfacts, #famousquotes, #contact, #footer
 {
  margin-top:100px;
  width:90%;
@@ -68,7 +68,7 @@ body
 
   
 /* (home,about,funfacts and famous quotes) paragraph font size*/
-#home, #about, #funfacts, #famousquotes p
+#home, #biography, #funfacts, #famousquotes p
 {
   width:85%;
  font-size:20px;}
